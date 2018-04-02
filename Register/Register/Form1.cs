@@ -75,7 +75,7 @@ namespace Register
             label2.Text = "幼兒姓名: ";
             label17.Text = "幼兒性別: ";
             label22.Text = "幼兒年齡: ";
-            label23.Text = "家長姓名:  ";
+            label23.Text = "家長姓名: ";
 
             ///選課查詢頁面
             label4.Text = "幼兒姓名: ";
