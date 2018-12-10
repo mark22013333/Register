@@ -1,0 +1,87 @@
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\Register.exe.config
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\Register.exe
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\Register.pdb
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\EntityFramework.dll
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\System.Data.SQLite.dll
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\EntityFramework.xml
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\System.Data.SQLite.xml
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.Form1.resources
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.Properties.Resources.resources
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.exe
+C:\Users\andy_cheng\Documents\Visual Studio 2017\Projects\Register\Register\obj\Debug\Register.pdb
+E:\Register\Register\bin\Debug\Register.exe.config
+E:\Register\Register\bin\Debug\Register.exe
+E:\Register\Register\bin\Debug\Register.pdb
+E:\Register\Register\bin\Debug\EntityFramework.dll
+E:\Register\Register\bin\Debug\EntityFramework.SqlServer.dll
+E:\Register\Register\bin\Debug\System.Data.SQLite.dll
+E:\Register\Register\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Register\Register\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Register\Register\bin\Debug\EntityFramework.xml
+E:\Register\Register\bin\Debug\EntityFramework.SqlServer.xml
+E:\Register\Register\bin\Debug\System.Data.SQLite.xml
+E:\Register\Register\bin\Debug\System.Data.SQLite.dll.config
+E:\Register\Register\obj\Debug\Register.Form1.resources
+E:\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+E:\Register\Register\obj\Debug\Register.exe
+E:\Register\Register\obj\Debug\Register.pdb
+E:\Register\Register\bin\Debug\Register.exe.manifest
+E:\Register\Register\bin\Debug\Register.application
+E:\Register\Register\obj\Debug\Register.exe.manifest
+E:\Register\Register\obj\Debug\Register.application
+E:\000000\Register\Register\bin\Debug\Register.exe.config
+E:\000000\Register\Register\bin\Debug\Register.exe.manifest
+E:\000000\Register\Register\bin\Debug\Register.application
+E:\000000\Register\Register\bin\Debug\Register.exe
+E:\000000\Register\Register\bin\Debug\Register.pdb
+E:\000000\Register\Register\bin\Debug\EntityFramework.dll
+E:\000000\Register\Register\bin\Debug\EntityFramework.SqlServer.dll
+E:\000000\Register\Register\bin\Debug\System.Data.SQLite.dll
+E:\000000\Register\Register\bin\Debug\System.Data.SQLite.EF6.dll
+E:\000000\Register\Register\bin\Debug\System.Data.SQLite.Linq.dll
+E:\000000\Register\Register\bin\Debug\EntityFramework.xml
+E:\000000\Register\Register\bin\Debug\EntityFramework.SqlServer.xml
+E:\000000\Register\Register\bin\Debug\System.Data.SQLite.xml
+E:\000000\Register\Register\bin\Debug\System.Data.SQLite.dll.config
+E:\000000\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+E:\000000\Register\Register\obj\Debug\Register.Form1.resources
+E:\000000\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\000000\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+E:\000000\Register\Register\obj\Debug\Register.exe.manifest
+E:\000000\Register\Register\obj\Debug\Register.application
+E:\000000\Register\Register\obj\Debug\Register.exe
+E:\000000\Register\Register\obj\Debug\Register.pdb
+E:\Register\Register\bin\Debug\itextsharp.dll
+E:\Register\Register\bin\Debug\itextsharp.xml
+E:\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+G:\Register\Register\bin\Debug\Register.exe.config
+G:\Register\Register\obj\Debug\Register.exe
+G:\Register\Register\obj\Debug\Register.pdb
+G:\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+G:\Register\Register\obj\Debug\Register.Form1.resources
+G:\Register\Register\obj\Debug\Register.Properties.Resources.resources
+G:\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+G:\Register\Register\bin\Debug\Register.exe.manifest
+G:\Register\Register\bin\Debug\Register.application
+G:\Register\Register\bin\Debug\Register.exe
+G:\Register\Register\bin\Debug\Register.pdb
+G:\Register\Register\bin\Debug\EntityFramework.dll
+G:\Register\Register\bin\Debug\EntityFramework.SqlServer.dll
+G:\Register\Register\bin\Debug\itextsharp.dll
+G:\Register\Register\bin\Debug\System.Data.SQLite.dll
+G:\Register\Register\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Register\Register\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Register\Register\bin\Debug\EntityFramework.xml
+G:\Register\Register\bin\Debug\EntityFramework.SqlServer.xml
+G:\Register\Register\bin\Debug\itextsharp.xml
+G:\Register\Register\bin\Debug\System.Data.SQLite.xml
+G:\Register\Register\obj\Debug\Register.exe.manifest
+G:\Register\Register\obj\Debug\Register.application
